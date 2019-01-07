@@ -11,7 +11,7 @@
     "lint:js": "eslint './src/**/*.js'"
   },
   "dependencies": {
-    "gatsby": "^2.0.0",
+    "gatsby": "^2.0.85",
     "gatsby-image": "^2.0.12",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
